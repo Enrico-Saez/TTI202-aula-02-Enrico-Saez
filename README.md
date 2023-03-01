@@ -1,6 +1,6 @@
 # TTI202-aula-02-Enrico-Saez
 
-Alunos:
+### Alunos:
 
 - Enrico Ricardo Saez | 22.00611-7
 
@@ -9,3 +9,13 @@ Alunos:
 - Felipe Nelli Martins - 22.00026-7
 
 - Luigi Henrique Cattaruzzi | 22.01282-6
+
+
+### Funções da Calculadora
+
+- [x] Soma
+- [x] Subtração
+- [x] Multiplicação
+- [x] Divisão
+- [x] Potenciação
+- [x] Radiciação
