@@ -10,7 +10,6 @@
 
 - Luigi Henrique Cattaruzzi | 22.01282-6
 
-
 ### Funções da Calculadora
 
 - [x] Soma
@@ -19,3 +18,7 @@
 - [x] Divisão
 - [x] Potenciação
 - [x] Radiciação
+
+### Kanban
+
+<img src="Kanban.jpeg"/>
